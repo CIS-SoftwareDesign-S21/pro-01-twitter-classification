@@ -1,4 +1,4 @@
-# Project Name: User Classification in Twitter (UCT)
+# User Classification in Twitter (UCT)
 ### Group Members: Tarekegne Aboye, Yang Bo, Gannon Traynor, Soobin Kim
 
 ## Project Overview 
