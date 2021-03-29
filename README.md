@@ -14,5 +14,8 @@ Jim is a 30 year old that lives near the World Trade Center in New York City, Ne
 Jim not only uses social media for personal entertainment, he also analyzes data from these sites as his job. He utilizes social media monitoring to develop an understanding of consumer wants and needs and delivers this information to his clients. He would find the UCT program useful when monitoring Twitter to classify companies vs. consumers and see the interactions of both of these categories of users. 
 
 # How to Install
+1. Download follower_display.zip
+2. Extract contents
+3. Run follower_display.exe
 
-
+This program asks the user to input a Twitter username and returns the associated follower count. 
