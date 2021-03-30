@@ -22,6 +22,7 @@ what type of user a Twitter account is based on different features, wether it's 
 average joe. While looking through the other respositories I noticed a few things that will make a good starting point. There are already a few training models buiot out in jupyterlabs although they are outdated
 and will need to be outfitted. Before we do that we will have to do some tests to determine which features are the best predictor of a twitters accounts user type. 
 
+FOR people who work in marketing and advertising who utilize social media monitoring WHO want a way to sort Twitter users, THE UCT program is a tool for Twitter THAT classifies users based on categories such as whether they're influencers, consumers, or politicans. UNLIKE other apps developed through Twitter's developer portal that show portions of data, OUR program provides a simple to use interface that displays a lot of data about individual users that show whether they're relevant for collecting marketing information.
 # Personas
 
 ## Marketing Persona (Soobin Kim)
