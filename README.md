@@ -14,7 +14,7 @@ User accounts in Twitter can be categorized in many different ways. For example,
 3. Enter the follower_display_revised folder
 4. Run follower_display.exe application
 
-This program asks the user to input a Twitter username and returns the associated follower count. 
+https://trello.com/invite/b/lV43sIEe/253b6caf275397e75757e4e0381a85f7/twitter-classification
 
 # Vision
 User Classification in Twitter is going to build upon a few older projects that had a similar idea. The goal of this project is to create a program that can identify
