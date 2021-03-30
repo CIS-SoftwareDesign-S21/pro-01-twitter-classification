@@ -28,9 +28,9 @@ Jim not only uses social media for personal entertainment, he also analyzes data
 ## Recruiting Persona.  
 Tony is a hr manager and recruiter at a software development company in Silicon Valley. He is responsible for finding and contacting potential employee. Tony is able to use the User Classification program in twitter (uct) to assist his work. With the program he is able to narrow down to specify standard users and avoid wasting time looking at twitter accounts that are run by companies, or are bots. He is also able to find users that are active in the tech community and often talk about software development and other topics on their twitter account. UCT helps Tony find suitable candidates from a pool of a billion people.  
 
-# Tarekegne Aboye 
+## Tarekegne Aboye 
 
-# Exporter Persona
+## Exporter Persona
 
 Samuel is 44 years old and works in the international relations department of a private exporter company. He holds a degree in Business Administration from the country's educational institution. He also has some experience in technology and was born in Ethiopia. Samuel's company exports its products to different countries through its brokers, but since Samuel came to this company, he has been using various social media to communicate directly with the company's existing and new customers to make their services more reliable. 
 
