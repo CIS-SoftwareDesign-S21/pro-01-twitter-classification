@@ -1,8 +1,16 @@
 # User Classification in Twitter (UCT)
 ### Group Members: Tarekegne Aboye, Yang Bo, Gannon Traynor, Soobin Kim
 
-## Project Overview 
+# Project Overview 
 The goal of this project is to implement a framework for UCT that, given a tweet, will retrieve a user account and perform a classification of that account. 
+
+# How to Install
+1. Download FDSetup.exe
+2. Go through install process
+3. Enter the follower_display_revised folder
+4. Run follower_display.exe application
+
+This program asks the user to input a Twitter username and returns the associated follower count. 
 
 # Vision
 User Classification in Twitter is going to build upon a few older projects that had a similar idea. The goal of this project is to create a program that can identify
@@ -20,21 +28,10 @@ Jim not only uses social media for personal entertainment, he also analyzes data
 ## Recruiting Persona.  
 Tony is a hr manager and recruiter at a software development company in Silicon Valley. He is responsible for finding and contacting potential employee. Tony is able to use the User Classification program in twitter (uct) to assist his work. With the program he is able to narrow down to specify standard users and avoid wasting time looking at twitter accounts that are run by companies, or are bots. He is also able to find users that are active in the tech community and often talk about software development and other topics on their twitter account. UCT helps Tony find suitable candidates from a pool of a billion people.  
 
-# How to Install
-1. Download FDSetup.exe
-2. Go through install process
-3. Enter the follower_display_revised folder
-4. Run follower_display.exe application
+## Tarekegne Aboye 
 
-This program asks the user to input a Twitter username and returns the associated follower count. 
-
-
-# Tarekegne Aboye 
-
-# Exporter Persona
-
+## Exporter Persona
 
 Samuel is 44 years old and works in the international relations department of a private exporter company. He holds a degree in Business Administration from the country's educational institution. He also has some experience in technology and was born in Ethiopia. Samuel's company exports its products to different countries through its brokers, but since Samuel came to this company, he has been using various social media to communicate directly with the company's existing and new customers to make their services more reliable. 
 
 As social networking helps different companies to express their products, services, and ideas, Samuel also uses a Twitter account in the company to promote his company's products and strengthen his relationship with various sections of the community to make the organization more profitable. However, to make the company’s product accessible to buyers in different countries and to strengthen the relationship between seller and buyer, he found the importance of the UCT program (user classification in Twitter) as a key to play a role in the company.
-
