@@ -2,7 +2,11 @@
 ### Group Members: Tarekegne Aboye, Yang Bo, Gannon Traynor, Soobin Kim
 
 # Project Overview 
-The goal of this project is to implement a framework for UCT that, given a tweet, will retrieve a user account and perform a classification of that account. 
+User accounts in Twitter can be categorized in many different ways. For example, whether there are humans or bots, individuals or organizations. They also can be classified based on their affiliation (government, non-profit, commercial ...etc), or their interest field (politics, academia, entertainment.. etc). There are many research and open-source projects that attempted to achieve this task form different. Most open projects (see References) have several issues:
+
+-The code is not maintained and contains components that are outdated and need some debugging.  
+-The project is not documented well.  
+-The project doesn't perform real-time classification.   
 
 # How to Install
 1. Download FDSetup.exe
