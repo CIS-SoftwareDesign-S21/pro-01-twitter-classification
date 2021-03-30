@@ -5,6 +5,10 @@
 The goal of this project is to implement a framework for UCT that, given a tweet, will retrieve a user account and perform a classification of that account. 
 
 # Vision
+User Classification in Twitter is going to build upon a few older projects that had a similar idea. The goal of this project is to create a program that can identify
+what type of user a Twitter account is based on different features, wether it's a bot, an advertisement page, a corporate/company page, a social media influencer/celebrity or just an everyday
+average joe. While looking through the other respositories I noticed a few things that will make a good starting point. There are already a few training models buiot out in jupyterlabs although they are outdated
+and will need to be outfitted. Before we do that we will have to do some tests to determine which features are the best predictor of a twitters accounts user type. 
 
 # Personas
 
@@ -12,6 +16,9 @@ The goal of this project is to implement a framework for UCT that, given a tweet
 Jim is a 30 year old that lives near the World Trade Center in New York City, New York. He has a Bachelor's Degree in Market Research from New York University. Lately he works for Kantar, a market research company founded in London, England but with locations in many other countries. He spends most of his day online, but likes to go out for walks to enjoy the architecture and art in the city in his free time. 
 
 Jim not only uses social media for personal entertainment, he also analyzes data from these sites as his job. He utilizes social media monitoring to develop an understanding of consumer wants and needs and delivers this information to his clients. He would find the UCT program useful when monitoring Twitter to classify companies vs. consumers and see the interactions of both of these categories of users. 
+
+## Recruiting Persona.  
+Tony is a hr manager and recruiter at a software development company in Silicon Valley. He is responsible for finding and contacting potential employee. Tony is able to use the User Classification program in twitter (uct) to assist his work. With the program he is able to narrow down to specify standard users and avoid wasting time looking at twitter accounts that are run by companies, or are bots. He is also able to find users that are active in the tech community and often talk about software development and other topics on their twitter account. UCT helps Tony find suitable candidates from a pool of a billion people.  
 
 # How to Install
 1. Download FDSetup.exe
