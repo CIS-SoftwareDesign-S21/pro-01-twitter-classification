@@ -30,6 +30,9 @@ Jim is a 30 year old that lives near the World Trade Center in New York City, Ne
 
 Jim not only uses social media for personal entertainment, he also analyzes data from these sites as his job. He utilizes social media monitoring to develop an understanding of consumer wants and needs and delivers this information to his clients. He would find the UCT program useful when monitoring Twitter to classify companies vs. consumers and see the interactions of both of these categories of users. 
 
+## Athlete (Yang Bo)
+Kento is a 26 years old Japanese badminton player. He has won several major badminton tournaments including two World Championships titles. Momota entered into Guinness Book of World Records for "The most badminton men's singles titles in a season", for his achievements by winning 11 titles in the 2019 season. He usually has no time to rest, he is usually training.
+
 ## Recruiting Persona.  
 Tony is a hr manager and recruiter at a software development company in Silicon Valley. He is responsible for finding and contacting potential employee. Tony is able to use the User Classification program in twitter (uct) to assist his work. With the program he is able to narrow down to specify standard users and avoid wasting time looking at twitter accounts that are run by companies, or are bots. He is also able to find users that are active in the tech community and often talk about software development and other topics on their twitter account. UCT helps Tony find suitable candidates from a pool of a billion people.  
 
