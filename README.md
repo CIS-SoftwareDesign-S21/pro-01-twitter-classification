@@ -22,7 +22,8 @@ Jim not only uses social media for personal entertainment, he also analyzes data
 This program asks the user to input a Twitter username and returns the associated follower count. 
 
 
-Tarekegne Aboye 
+Tarekegne Aboye
+
 Exporter Persona
 
 Samuel is 44 years old and works in the international relations department of a private exporter company. He holds a degree in Business Administration from the country's educational institution. He also has some experience in technology and was born in Ethiopia. Samuel's company exports its products to different countries through its brokers, but since Samuel came to this company, he has been using various social media to communicate directly with the company's existing and new customers to make their services more reliable. 
