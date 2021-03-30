@@ -44,7 +44,7 @@ Samuel is 44 years old and works in the international relations department of a 
 
 As social networking helps different companies to express their products, services, and ideas, Samuel also uses a Twitter account in the company to promote his company's products and strengthen his relationship with various sections of the community to make the organization more profitable. However, to make the company’s product accessible to buyers in different countries and to strengthen the relationship between seller and buyer, he found the importance of the UCT program (user classification in Twitter) as a key to play a role in the company.
 
-## Keshav Saraogi
+## Teacher Persona (Keshav Saraogi)
 During the timeline of the project, I would like to implement the persona of a teacher. Mr Richard Walker is a currently a 32 year old high-school teacher, living in Pennsylvania for the past 7 years. Since the year 2020, he has been teaching online and has been using the internet to get hold of the resources that are in need of the teaching process. 
 
 Mr Richard is being able to use the program as he is able to identify more teachers from the similar teaching interests, similar teaching background, and also people who were previously in the teaching position,  and is able to communicate in order to create a better teaching experience for the students.
