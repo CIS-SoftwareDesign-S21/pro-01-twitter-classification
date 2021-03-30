@@ -1,5 +1,5 @@
 # User Classification in Twitter (UCT)
-### Group Members: Tarekegne Aboye, Yang Bo, Gannon Traynor, Soobin Kim
+### Group Members: Tarekegne Aboye, Yang Bo, Gannon Traynor, Soobin Kim, Keshav Saraogi
 
 # Project Overview 
 User accounts in Twitter can be categorized in many different ways. For example, whether there are humans or bots, individuals or organizations. They also can be classified based on their affiliation (government, non-profit, commercial ...etc), or their interest field (politics, academia, entertainment.. etc). There are many research and open-source projects that attempted to achieve this task form different. Most open projects (see References) have several issues:
