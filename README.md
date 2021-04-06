@@ -28,7 +28,7 @@ https://uct-basic.ue.r.appspot.com/
 
 # Link to Trello Board
 
-https://trello.com/invite/b/lV43sIEe/253b6caf275397e75757e4e0381a85f7/twitter-classification
+https://trello.com/b/lV43sIEe/user-classification-in-twitter
 
 # Vision
 
