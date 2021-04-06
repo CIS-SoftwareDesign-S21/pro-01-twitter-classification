@@ -20,13 +20,19 @@ However, while looking through the other respositories I noticed a few things th
 
 https://uct-basic.ue.r.appspot.com/
 
+## How to run UCT Basic web app locally via Command Prompt: 
+1. Download UCT Basic Week Two zip file
+2. In terminal, import Tweepy and Flask (**pip install tweepy**, then **pip install flask**)
+3. Run main.py (**python main.py**)
+4. In browser, navigate to http://127.0.0.1:8080/
+
 # Link to Trello Board
 
-https://trello.com/invite/b/lV43sIEe/253b6caf275397e75757e4e0381a85f7/twitter-classification
+https://trello.com/b/lV43sIEe/user-classification-in-twitter
 
 # Vision
 
-FOR people who work in marketing and advertising who utilize social media monitoring WHO want a way to sort Twitter users, THE UCT program is a tool for Twitter THAT classifies users based on categories such as whether they're influencers, consumers, or politicans. UNLIKE other apps developed through Twitter's developer portal that show portions of data, OUR program provides a simple to use interface that displays a lot of data about individual users that show whether they're relevant for collecting marketing information.
+For people who work in marketing and advertising who utilize social media monitoring who want a way to sort Twitter users, The UCT program is a tool for Twitter that classifies users based on categories such as whether they're influencers, consumers, or politicans. Unlike other apps developed through Twitter's developer portal that show portions of data, our program provides a simple to use interface that displays a lot of data about individual users that show whether they're relevant for collecting marketing information.
 
 # Personas
 
