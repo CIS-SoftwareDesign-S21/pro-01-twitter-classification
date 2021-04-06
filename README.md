@@ -8,13 +8,13 @@ User accounts in Twitter can be categorized in many different ways. For example,
 -The project is not documented well.  
 -The project doesn't perform real-time classification.   
 
-# How to Install Follower Display
+## How to Install Follower Display
 1. Download FDSetup.exe
 2. Go through install process
 3. Enter the follower_display_revised folder
 4. Run follower_display.exe application
 
-# UCT Basic Web Application
+## UCT Basic Web Application
 
 https://uct-basic.ue.r.appspot.com/
 
