@@ -32,7 +32,7 @@ https://trello.com/b/lV43sIEe/user-classification-in-twitter
 
 # Vision
 
-For people who work in marketing and advertising who utilize social media monitoring who want a way to sort Twitter users, THE UCT program is a tool for Twitter that classifies users based on categories such as whether they're influencers, consumers, or politicans. Unlike other apps developed through Twitter's developer portal that show portions of data, our program provides a simple to use interface that displays a lot of data about individual users that show whether they're relevant for collecting marketing information.
+For people who work in marketing and advertising who utilize social media monitoring who want a way to sort Twitter users, The UCT program is a tool for Twitter that classifies users based on categories such as whether they're influencers, consumers, or politicans. Unlike other apps developed through Twitter's developer portal that show portions of data, our program provides a simple to use interface that displays a lot of data about individual users that show whether they're relevant for collecting marketing information.
 
 # Personas
 
