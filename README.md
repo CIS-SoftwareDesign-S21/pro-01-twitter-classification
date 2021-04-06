@@ -10,6 +10,10 @@ User accounts in Twitter can be categorized in many different ways. For example,
 
 However, while looking through the other respositories I noticed a few things that will make a good starting point. There are already a few training models buiot out in jupyterlabs although they are outdated and will need to be outfitted. Before we do that we will have to do some tests to determine which features are the best predictor of a Twitter account's user type.
 
+# Base Repository 
+
+https://github.com/zafargilani/uc/issues
+
 ## How to install Follower Display
 1. Download FDSetup.exe
 2. Go through install process
