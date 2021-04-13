@@ -14,12 +14,6 @@ However, while looking through the other respositories I noticed a few things th
 
 https://github.com/zafargilani/uc/issues
 
-## Repository Exploration (Tarekegne)
-https://github.com/CodeBreakPP/TwitterUserType
-
-For this week, I Picked a (CodeBreakPP/TwitterUserType) repository to add/fix and run the code. However, when I tried to run TwitterUserType (test.py) python code, the code needs to fix before I run it, and under the line 39, 44, 51, and 66 the written code should be put under parenthesis and in the bracket. So, I fixed that before I run it. Also, I added the NumPy library to make the code be working properly. 
-
-In addition, when I tried to run test2.py TwitterUserType, I got the same problem and the code needs "sklearn.SVM" library so, I fixed that the same way as in the above. 
 
 
 ## How to install Follower Display
@@ -68,3 +62,12 @@ As social networking helps different companies to express their products, servic
 During the timeline of the project, I would like to implement the persona of a teacher. Mr Richard Walker is a currently a 32 year old high-school teacher, living in Pennsylvania for the past 7 years. Since the year 2020, he has been teaching online and has been using the internet to get hold of the resources that are in need of the teaching process. 
 
 Mr Richard is being able to use the program as he is able to identify more teachers from the similar teaching interests, similar teaching background, and also people who were previously in the teaching position,  and is able to communicate in order to create a better teaching experience for the students.
+
+
+## Repository Exploration (Tarekegne)
+https://github.com/CodeBreakPP/TwitterUserType
+
+For this week, I Picked a (CodeBreakPP/TwitterUserType) repository to add/fix and run the code. However, when I tried to run TwitterUserType (test.py) python code, the code needs to fix before I run it, and under the line 39, 44, 51, and 66 the written code should be put under parenthesis and in the bracket. So, I fixed that before I run it. Also, I added the NumPy library to make the code be working properly. 
+
+In addition, when I tried to run test2.py TwitterUserType, I got the same problem and the code needs "sklearn.SVM" library so, I fixed that the same way as in the above. 
+
