@@ -1,0 +1,24 @@
+numpy-1.19.3
+python-3.5.4
+pandas-1.0.5
+python-dateutil-2.8.1
+markupsafe-1.1.1
+scikit-learn-0.20.3
+theano-1.0.4
+keras-2.2.5
+tensorflow-1.14
+
+
+
+
+
+line 243 
+file:///home/gannon/miniconda3/lib/python3.6/site-packages/tensorflow/python/keras/engine/data_adapter.py
+      tensor_types = (ops.Tensor, np.ndarray, pd.Series, pd.DataFrame)
+
+what i think:
+[1]-personal
+[2]-celebrity/influencer
+[3]-organization
+[4]-
+
