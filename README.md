@@ -14,6 +14,14 @@ However, while looking through the other respositories I noticed a few things th
 
 https://github.com/zafargilani/uc/issues
 
+## Repository Exploration (Tarekegne)
+https://github.com/CodeBreakPP/TwitterUserType
+
+For this week, I Picked a (CodeBreakPP/TwitterUserType) repository to add/fix and run the code. However, when I tried to run TwitterUserType (test.py) python code, the code needs to fix before I run it, and under the line 39, 44, 51, and 66 the written code should be put under parenthesis and in the bracket. So, I fixed that before I run it. Also, I added the NumPy library to make the code be working properly. 
+
+In addition, when I tried to run test2.py TwitterUserType, I got the same problem and the code needs "sklearn.SVM" library so, I fixed that the same way as in the above. 
+
+
 ## How to install Follower Display
 1. Download FDSetup.exe
 2. Go through install process
