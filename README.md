@@ -10,6 +10,9 @@ User accounts in Twitter can be categorized in many different ways. For example,
 
 However, while looking through the other respositories I noticed a few things that will make a good starting point. There are already a few training models buiot out in jupyterlabs although they are outdated and will need to be outfitted. Before we do that we will have to do some tests to determine which features are the best predictor of a Twitter account's user type.
 
+# UML 
+![UML](https://github.com/CIS-SoftwareDesign-S21/pro-01-twitter-classification/blob/Web-App-Convert/UML.png)
+
 # Base Repository 
 
 https://github.com/zafargilani/uc/issues
