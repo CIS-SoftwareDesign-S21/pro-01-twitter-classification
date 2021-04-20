@@ -71,3 +71,11 @@ For this week, I Picked a (CodeBreakPP/TwitterUserType) repository to add/fix an
 
 In addition, when I tried to run test2.py TwitterUserType, I got the same problem and the code needs "sklearn.SVM" library so, I fixed that the same way as in the above. 
 
+## Repository Exploration (Soobin)
+https://github.com/zafargilani/uc/
+
+This repository is the base that we chose to work with. There are many issues with the project in its current state, mainly because it is outdated. Installing the correct combination of libraries was difficult to do, and it involves a lot of trial and error. 
+
+The issue I personally tackled was the conversion of the web app from Spyre to Flask. I had minimal trouble making the conversion, but the classification code itself either wasn't running correctly (with tensorflow backend) or was running very slowly (with theano backend) and ultimately it was what prevented me from being able to fully test if the web app was successfully converted.
+
+Tests where the classification result was omitted worked ok (html and basic returns, such as the username inputted by the user).
