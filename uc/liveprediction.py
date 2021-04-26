@@ -8,6 +8,8 @@ from config import *
 
 #Using a lock to avoid any mishap while appending results
 lock = threading.Lock()
+key = ["Person" , "Brand/Influencer" , "Corportation" , "Bot"]
+values = [0,0,0,0,0,0]
 
 def is_user_valid():
 	# stub
@@ -128,7 +130,8 @@ def classify_hashtags(alltweets, Result,):
 	result = list(result[0])
 	print("Hashtag classification ")
 	lock.acquire()
-	Result.append("with " + str(max(result)*100) + "% confidence, Hashtag classification: " +  str(result2))
+	values[0] = int(max(result))
+	Result.append("with " + str(max(result)*100) + "% confidence, Hashtag classification: " +  key[int(result2)-1])
 	lock.release()
 	return
 
@@ -146,7 +149,8 @@ def classify_mentions(alltweets, Result,):
 	result = list(result[0])
 	print("Mentions classification ")
 	lock.acquire()
-	Result.append("with " + str(max(result)*100) + "% confidence, Mentions classification: " + str(result2))
+	values[1] = int(max(result))
+	Result.append("with " + str(max(result)*100) + "% confidence, Mentions classification: " + key[int(result2)-1])
 	lock.release()
 	return
 
@@ -158,13 +162,15 @@ def classify_friends(allfriends, Result,):
 	print("Friends extracted")
 	X_test = cv_friends.transform([X_test])
 	print("Friends transform applied, now predicting ..")
+	print(X_test)
 	X_test = X_test.toarray()
 	result = friendsclf.predict(X_test)
 	result2 = lb_friends.inverse_transform(result)
 	result = list(result[0])
 	print("Friends classification ")
+	values[2] = int(max(result))
 	lock.acquire()
-	Result.append("with " + str(max(result)*100) + "% confidence, Friends classification: "+ str(result2))
+	#Result.append("with " + str(max(result)*100) + "% confidence, Friends classification: "+ key[int(result2)-1])
 	lock.release()
 	return
 
@@ -182,7 +188,8 @@ def classify_tweet(alltweets, Result,):
 	result = list(result[0])
 	print("Tweet classification ")
 	lock.acquire()
-	Result.append("with " + str(max(result)*100) + "% confidence, Tweets classification: " + str(result2))
+	values[3] = int(max(result))
+	Result.append("with " + str(max(result)*100) + "% confidence, Tweets classification: " + key[int(result2)-1])
 	print(Result)
 	lock.release()
 	return
@@ -203,7 +210,8 @@ def classify_bio(alltweets, Result,):
 	result = list(result[0])
 	print("Bio classification ")
 	lock.acquire()
-	Result.append("with " + str(max(result)*100) + "% confidence, Bio classification: " + str(result2))
+	values[4] = int(max(result))
+	Result.append("with " + str(max(result)*100) + "% confidence, Bio classification: " + key[int(result2)-1])
 	lock.release()
 	return
 
@@ -222,7 +230,8 @@ def classify_links(alltweets, Result,):
 	result = list(result[0])
 	print("Links classification ")
 	lock.acquire()
-	Result.append("with " + str(max(result)*100) + "% confidence, Links classification: " + str(result2))
+	values[5] = int(max(result))
+	Result.append("with " + str(max(result)*100) + "% confidence, Links classification: " + key[int(result2)-1])
 	lock.release()
 	return
 
@@ -254,6 +263,7 @@ def classify(alltweets, allfriends, Result,):
 	links.join()
 
 	return
+	
 
 def get_prediction(user):
 	print("Entered username: ", user)
